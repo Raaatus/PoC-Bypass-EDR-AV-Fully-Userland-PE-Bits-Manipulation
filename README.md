@@ -57,7 +57,7 @@ Bypass Microsoft Endpoint
 
 ![alt text](img/demo.gif)
 <video src="img/demo.mp4" controls width="600"></video>
-
+[🎬 Watch the video demonstration](img/demo.mp4)
 ---
 
 ## PE modification
