@@ -1,4 +1,4 @@
-# PoC – ByPass EDR/AV USERLAND, Code Cave Injection & Two-Stage Shellcode via PE x64 Section Manipulation
+# PoC – ByPass any EDR/AV USERLAND, Code Cave Injection & Two-Stage Shellcode via PE x64 Section Manipulation
 
 **EDR bypass** par injection two-stage dans les sections `.text` / `.reloc` d'un binaire signé (Putty 0.78 x64), sans création de nouvelle section, sans IAT hookée, sans région RWX sur disque.
 
@@ -55,7 +55,7 @@ Restauration : copie de l'instruction originale (LEA RCX, [RDI+0x84])
 Bypass Microsoft Endpoint
 
 <video src="img/demo.mp4" controls width="600"></video>
-
+![alt text](img/demo.gif)
 ---
 
 ## Modification PE
