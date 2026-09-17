@@ -56,7 +56,7 @@ Restoration : copy of the original instruction (LEA RCX, [RDI+0x84])
 Bypass Microsoft Endpoint
 
 <video src="img/demo.mp4" controls width="600"></video>
-
+[🎬 Watch the video demonstration](img/demo.mp4)
 ---
 
 ## PE modification
